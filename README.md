@@ -4,9 +4,11 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=70&lines=XP+OPU;Full+Stack+Developer;Telegram+Bot+Developer;API+Developer;Automation+Engineer;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&height=80&lines=XP+OPU+%3C%2F%3E;Full+Stack+Developer;Telegram+Bot+Developer;API+Developer;Automation+Engineer" />
 
-<br>
+# 🚀 XP OPU
+
+### Full Stack Developer • API Developer • Telegram Bot Developer
 
 <img src="https://komarev.com/ghpvc/?username=xpowner99090&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6" />
 
@@ -49,7 +51,7 @@ Status: Building Cool Things 🚀
 </a>
 
 <a href="https://xpopu.top">
-<img src="https://img.shields.io/badge/Website-xpopu.top-000000?style=for-the-badge&logo=googlechrome"/>
+<img src="https://img.shields.io/badge/Website-xpopu.top-black?style=for-the-badge&logo=googlechrome"/>
 </a>
 
 <a href="https://www.tiktok.com/@xp_owner99">
@@ -64,13 +66,25 @@ Status: Building Cool Things 🚀
 
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| 👤 Telegram | https://t.me/XP_OWNER99 |
-| 🚀 Free API Channel | https://t.me/XP_FREE_APIII |
-| 🤖 XP Bots Channel | https://t.me/XPxBOTS |
-| 🌍 Website | https://xpopu.top |
-| 🎵 TikTok | https://www.tiktok.com/@xp_owner99 |
+<a href="https://t.me/XP_OWNER99">
+<img src="https://img.shields.io/badge/Telegram-Owner-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://t.me/XP_FREE_APIII">
+<img src="https://img.shields.io/badge/Free_API_Channel-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://t.me/XPxBOTS">
+<img src="https://img.shields.io/badge/XP_BOTS-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://xpopu.top">
+<img src="https://img.shields.io/badge/Website-xpopu.top-black?style=for-the-badge&logo=googlechrome"/>
+</a>
+
+<a href="https://www.tiktok.com/@xp_owner99">
+<img src="https://img.shields.io/badge/TikTok-@xp__owner99-black?style=for-the-badge&logo=tiktok"/>
+</a>
 
 </div>
 
@@ -104,16 +118,6 @@ Status: Building Cool Things 🚀
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=xpowner99090&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpowner99090&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=xpowner99090&theme=tokyonight&hide_border=true"/>
 
 </div>
@@ -131,16 +135,6 @@ Status: Building Cool Things 🚀
 ✓ Automation Expert
 ✓ Cloud Hosting Enthusiast
 ```
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xpowner99090&theme=tokyo-night&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -163,40 +157,25 @@ class XPOPU:
 
     def status(self):
         return "Building The Future 🚀"
-
-
-developer = XPOPU()
-
-print(developer.status())
 ```
 
 ---
 
-# 🔥 Visitor Counter
-
 <div align="center">
 
-<img src="https://count.getloli.com/get/@xpowner99090?theme=rule34">
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/xpowner99090/xpowner99090/output/github-contribution-grid-snake-dark.svg">
-
-</div>
-
----
-
-<div align="center">
-
-# ⚡ XP OPU ⚡
+## ⚡ XP OPU ⚡
 
 ### Full Stack Developer • API Developer • Telegram Bot Developer
+
+<a href="https://t.me/XP_OWNER99">
+<img src="https://img.shields.io/badge/Contact-Telegram-blue?style=for-the-badge&logo=telegram"/>
+</a>
+
+<a href="https://xpopu.top">
+<img src="https://img.shields.io/badge/Website-xpopu.top-black?style=for-the-badge&logo=googlechrome"/>
+</a>
+
+<br><br>
 
 ⭐ Thanks For Visiting My Profile ⭐
 
